@@ -9,33 +9,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Task</mobile_title>
+        <mobile_title>All Customers</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
-        <order>1</order>
+        <name>x_343438_customer_all_customers</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_343438_customer.all_customers_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-05-11 03:05:25</sys_created_on>
+        <sys_created_on>2020-05-11 03:21:35</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>6184be842fb0d010f06d49e72799b65a</sys_id>
+        <sys_id>a238324c2fb0d010f06d49e72799b6a6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Task</sys_name>
+        <sys_name>All Customers</sys_name>
         <sys_overrides/>
         <sys_package display_value="Customer Awareness" source="x_343438_customer">cdd37a442fb0d010f06d49e72799b6ca</sys_package>
         <sys_policy/>
         <sys_scope display_value="Customer Awareness">cdd37a442fb0d010f06d49e72799b6ca</sys_scope>
-        <sys_update_name>sys_app_module_6184be842fb0d010f06d49e72799b65a</sys_update_name>
+        <sys_update_name>sys_app_module_a238324c2fb0d010f06d49e72799b6a6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-11 03:05:25</sys_updated_on>
+        <sys_updated_on>2020-05-11 03:21:35</sys_updated_on>
         <timeline_page/>
-        <title>Task</title>
+        <title>All Customers</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

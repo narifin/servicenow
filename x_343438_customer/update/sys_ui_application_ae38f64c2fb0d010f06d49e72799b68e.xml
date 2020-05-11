@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Customer Awareness</name>
+        <order/>
+        <roles>x_343438_customer.awareness admin,x_343438_customer.awareness user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 03:21:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ae38f64c2fb0d010f06d49e72799b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Awareness</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Customer Awareness" source="x_343438_customer">cdd37a442fb0d010f06d49e72799b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Awareness">cdd37a442fb0d010f06d49e72799b6ca</sys_scope>
+        <sys_update_name>sys_ui_application_ae38f64c2fb0d010f06d49e72799b68e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 03:21:35</sys_updated_on>
+    </sys_ui_application>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 03:21:36</sys_created_on>
+        <sys_id>6638f64c2fb0d010f06d49e72799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_343438_customer_all_customers.x_343438_customer.all_customers_user</sys_name>
+        <sys_package display_value="Customer Awareness" source="x_343438_customer">cdd37a442fb0d010f06d49e72799b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Awareness">cdd37a442fb0d010f06d49e72799b6ca</sys_scope>
+        <sys_security_acl display_value="x_343438_customer_all_customers">6638f64c2fb0d010f06d49e72799b6bb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6638f64c2fb0d010f06d49e72799b6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 03:21:36</sys_updated_on>
+        <sys_user_role display_value="x_343438_customer.all_customers_user" name="x_343438_customer.all_customers_user">5a38324c2fb0d010f06d49e72799b69d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
